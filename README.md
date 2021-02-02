@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate with other developers and programmers.
 
-- 🥅 `2021 Goals :`` Contribute more to Open Source projects
+- 🥅 `2021 Goals :` Contribute more to Open Source projects
 
-- 🌱 `Interest :``Robotics , Automation , Coding , Hackng ,Music and Table-Tennis
+- 🌱 `Interest :` Robotics , Automation , Coding , Hackng ,Music and Table-Tennis
 
 ###  Connect with me:
 
