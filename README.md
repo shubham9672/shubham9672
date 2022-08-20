@@ -17,7 +17,7 @@
 
 [<img alt="Instagram" width="35px" height ="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style=" margin: 5px 5px"/>][instagram]
 
-[<img alt="Github" width="35px" height ="35px" src="https://image.flaticon.com/icons/png/512/25/25231.png" style=" margin: 5px 5px"/>][github]
+[<img alt="Github" width="35px" height ="35px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style=" margin: 5px 5px"/>][github]
 
   
   
@@ -112,6 +112,6 @@
 
 [instagram]:  https://www.instagram.com/shubham_menroy/
 
-[linkedin]:  https://www.linkedin.com/in/shubham-menroy-a98483193
+[linkedin]:  https://www.linkedin.com/in/shubham-menroy-a26468238
 
 [github]:  https://github.com/shubham9672
